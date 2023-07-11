@@ -1,18 +1,18 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/manifest.json",
+    "id": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "EAF 2020 Lightning Talk" ] },
     "items": [
       {
-        "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "id": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "type": "Canvas",
         "duration": 318.0,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://julsraemy.github.io/av-annotations/annotations/eaf-2020-lightning-talk-canvas-1-transcription.json",
+            "id": "https://julsraemy.ch/av-annotations/annotations/eaf-2020-lightning-talk-canvas-1-transcription.json",
             "label": {
               "none": ["Transcription"]
             }
@@ -20,11 +20,11 @@
         ],
         "items": [
           {
-            "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/paintings",
+            "id": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/painting",
+                "id": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -33,7 +33,7 @@
                     "format": "video/mp4",
                     "duration": 318.0
                 },
-                "target": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas"
+                "target": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas"
               }
             ]
           }
