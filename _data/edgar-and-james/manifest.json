@@ -1,0 +1,40 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://julsraemy.github.io/av-annotations/edgar-and-james/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Edgar and James" ] },
+    "provider": [
+      {
+        "id": "https://julsraemy.ch",
+        "type": "Agent",
+        "label": { "en": [ "Julien A. Raemy" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://julsraemy.github.io/av-annotations/edgar-and-james/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 48.0,
+        "items": [
+          {
+            "id": "https://julsraemy.github.io/av-annotations/edgar-and-james/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://julsraemy.github.io/av-annotations/edgar-and-james/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://julsraemy.ch/assets/videos/edgar_james.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 48.0
+                },
+                "target": "https://julsraemy.github.io/av-annotations/edgar-and-james/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
