@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://julsraemy.github.io/av-annotations/annotations/edgar-james-canvas-1-description.json",
+  "type": "AnnotationPage",
+  "label": "Description",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "edgar-james-canvas-1-description-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Two British Longhair cats, named Edgar and James, playing together",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://julsraemy.github.io/av-annotations/edgar-james/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.0,12.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "edgar-james-canvas-1-description-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They are still playing.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://julsraemy.github.io/av-annotations/edgar-james/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.0,37.0"
+        }
+      }
+    }
+  ]
+}
