@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://julsraemy.github.io/av-annotations/annotations/eaf-2020-lightning-talk-canvas-1-transcription.json",
+  "id": "https://julsraemy.ch/av-annotations/annotations/eaf-2020-lightning-talk-canvas-1-transcription.json",
   "type": "AnnotationPage",
   "label": "Transcription",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "0.0,7.0"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "7.0,13.0"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "13.0,17.0"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "17.0,21.0"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "21.0,27.0"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "27.0,30.0"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "30.0,37.0"
@@ -173,7 +173,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "37.0,42.0"
@@ -195,7 +195,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "42.0,50.0"
@@ -217,7 +217,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "50.0,56.0"
@@ -239,7 +239,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "56.0,61.0"
@@ -261,7 +261,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "61.0,67.0"
@@ -283,7 +283,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "67.0,74.0"
@@ -305,7 +305,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "74.0,80.0"
@@ -327,7 +327,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "80.0,85.0"
@@ -349,7 +349,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "88.0,94.0"
@@ -371,7 +371,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "95.0,101.0"
@@ -393,7 +393,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "102.0,107.0"
@@ -415,7 +415,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "107.0,114.0"
@@ -437,7 +437,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "115.0,119.0"
@@ -459,7 +459,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "119.0,125.0"
@@ -481,7 +481,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "127.0,132.0"
@@ -503,7 +503,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "132.0,137.0"
@@ -525,7 +525,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "137.0,143.0"
@@ -547,7 +547,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "143.0,149.0"
@@ -569,7 +569,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "149.0,156.0"
@@ -591,7 +591,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "156.0,162.0"
@@ -613,7 +613,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "162.0,169.0"
@@ -635,7 +635,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "169.0,179.0"
@@ -657,7 +657,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "179.0,184.0"
@@ -679,7 +679,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "184.0,190.0"
@@ -701,7 +701,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "190.0,197.0"
@@ -723,7 +723,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "197.0,205.0"
@@ -745,7 +745,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "205.0,212.0"
@@ -767,7 +767,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "212.0,218.0"
@@ -789,7 +789,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "220.0,228.0"
@@ -811,7 +811,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "228.0,235.0"
@@ -833,7 +833,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "236.0,243.0"
@@ -855,7 +855,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "244.0,248.0"
@@ -877,7 +877,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "249.0,254.0"
@@ -899,7 +899,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "254.0,260.0"
@@ -921,7 +921,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "260.0,263.0"
@@ -943,7 +943,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "266.0,273.0"
@@ -965,7 +965,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "274.0,281.0"
@@ -987,7 +987,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "281.0,286.0"
@@ -1009,7 +1009,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "287.0,293.0"
@@ -1031,7 +1031,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "293.0,299.0"
@@ -1053,7 +1053,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "300.0,304.0"
@@ -1075,7 +1075,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "304.0,310.0"
@@ -1097,7 +1097,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "310.0,316.0"
@@ -1119,7 +1119,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "source": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "316.0,318.0"
