@@ -7,4 +7,4 @@ external_manifest_url:
 
 ---
 
-Here is a test. 
+Edgar and James are two British Longhair cats that like to play together.
