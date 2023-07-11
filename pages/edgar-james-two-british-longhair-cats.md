@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Edgar & James, two British Longhair cats
 manifest_name: edgar-james-two-british-longhair-cats
 permalink: edgar-james-two-british-longhair-cats

@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: EAF 2020 Lightning Talk
 manifest_name: eaf-2020-lightning-talk
 permalink: eaf-2020-lightning-talk
