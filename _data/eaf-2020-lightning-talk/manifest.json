@@ -8,6 +8,16 @@
         "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
         "type": "Canvas",
         "duration": 318.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://julsraemy.github.io/av-annotations/annotations/eaf-2020-lightning-talk-canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/paintings",

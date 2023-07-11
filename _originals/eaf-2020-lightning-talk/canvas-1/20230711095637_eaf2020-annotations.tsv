@@ -1,0 +1,52 @@
+start	end	annotation	Layer
+00:00	00:07	"Hi everyone, my name is Julien Raemy and with Nuno Freire we compile this presentation to"	Transcription
+00:07	00:13	give a novel view of alternative technologies for metadata aggregation.	Transcription
+00:13	00:17	So first I will give you a little bit of background.	Transcription
+00:17	00:21	"This starting talk is happening within the scope of a massive thesis, Information Science,"	Transcription
+00:21	00:27	that I am doing in Geneva and this is done in partnership with Europeana R&D team which will	Transcription
+00:27	00:30	end by mid-August this year.	Transcription
+00:30	00:37	"Secondly, Task 2.3 of the European Common Culture Project and its linked data aggregation pilot"	Transcription
+00:37	00:42	"irons. Well, I mean quite well with the subject of my dissertation and in connection has been"	Transcription
+00:42	00:50	"established accordingly. Overall, the aim of these research studies is to rethink the way"	Transcription
+00:50	00:56	metadata and metadata are being aggregated within Europeana. It is first necessary to	Transcription
+00:56	01:01	establish the state of the art of all the options to identify the requirement of those	Transcription
+01:01	01:07	technologies as well as to conduct tests. I'm moving now to talk about how we've selected	Transcription
+01:07	01:14	some aggregation methods. The R&D team tried to select the best methods based on technologies	Transcription
+01:14	01:20	are used by organization for all the purposes than per say cultural heritage content harvesting	Transcription
+01:20	01:25	and also those who have low technical bias for implementations.	Transcription
+01:28	01:34	"Different elements need to be discerned such as how datasets are being described or listed,"	Transcription
+01:35	01:41	"how data can be transferred and synchronized, objects should be described for other harvesting"	Transcription
+01:42	01:47	purposes and also some technologies need to be combined to truly enable aggregation and	Transcription
+01:47	01:54	negation routes to Europeana. So here's a list of various and versatile methods.	Transcription
+01:55	01:59	A significant part of the different options have already been tested within the network	Transcription
+01:59	02:05	such as aggregation mechanisms for linked data or IIIF resources.	Transcription
+02:07	02:12	Europeana's R&D has been working with the past few years on several projects regarding	Transcription
+02:12	02:17	aggregation. So we're going to showcase a couple of things. The first thing that I'm going to	Transcription
+02:17	02:23	showcase is the rise of literacy project which consisted of evaluating the application of linked	Transcription
+02:23	02:29	data on the schema.org data model. It was formed by three participants that represent the points of	Transcription
+02:29	02:36	view from partners that perform different roles within the Europeana network. The national library	Transcription
+02:36	02:42	"of the Netherlands has a data provider, the Dutch digital heritage network is an intermediary"	Transcription
+02:42	02:49	aggregator and of course Europeana. There were three collections and each time the schema	Transcription
+02:49	02:59	model linked data harvesting was applied. Second project is about IIIF so two datasets from	Transcription
+02:59	03:04	the university college Dublin and the welcome library in the UK have been adjusted in Europeana	Transcription
+03:04	03:10	using IIIF aggregation methods. The first one via the sitemaps of 2.5 manifests and the	Transcription
+03:10	03:17	metadata was harvested with the data provider in EDM. The second IIIF ingestion was done	Transcription
+03:17	03:25	via the IIIF collection method using the data aggregation lab tool. Speaking of which	Transcription
+03:25	03:32	"this is a tool, this is a system that aims to gather information from data providers and aggregators,"	Transcription
+03:32	03:38	"share experimental results, apply prototypes as well as provide demonstrators."	Transcription
+03:40	03:48	"So the tool addresses the following activities aggregation via linked data, IIIF so either"	Transcription
+03:48	03:55	with the presented methods or through the change discovery API and also HTML crawling.	Transcription
+03:56	04:03	I will now briefly speak about the aggregation of schema.org within the Common Culture project.	Transcription
+04:04	04:08	The specific task of the pilot has two objectives bringing the LOD	Transcription
+04:09	04:14	to EDM aggregation route into practice as well as use linked data aggregation and schema.org	Transcription
+04:14	04:20	transformation. So the Netherlands Institute for Salient Vision are coordinating these efforts	Transcription
+04:20	04:23	and here we can see a comprehensive list of all the stakeholders.	Transcription
+04:26	04:33	Here is also the workflow of this aggregation route. If the final report is being written	Transcription
+04:34	04:41	"and it's going to come in a couple of weeks, I would advise you to have a look at the LOD"	Transcription
+04:41	04:46	aggregator repository created by DND as well as two other linked data aggregation related guidelines.	Transcription
+04:47	04:53	"Finally, a couple of words regarding the survey which was sent a couple of weeks ago"	Transcription
+04:53	04:59	on the Europe and our tech list survey which is open until the 8th of May	Transcription
+05:00	05:04	which will give us indications on the user awareness and interest of various technologies	Transcription
+05:04	05:10	for aggregation and also allow us to carry out further tests with interest to the individuals	Transcription
+05:10	05:16	and organization. So thank you very much for your attention and I look forward to your questions	Transcription
+05:16	05:18	and remarks.	Transcription
