@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "EAF 2020 Lightning Talk" ] },
+    "items": [
+      {
+        "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 318.0,
+        "items": [
+          {
+            "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://julsraemy.ch/assets/videos/eaf2020.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 318.0
+                },
+                "target": "https://julsraemy.github.io/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
