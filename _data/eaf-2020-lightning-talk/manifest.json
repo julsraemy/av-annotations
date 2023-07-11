@@ -3,6 +3,32 @@
     "id": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "EAF 2020 Lightning Talk" ] },
+      "metadata": [
+    {
+      "label": {
+        "en": [
+          "Speaker"
+        ]
+      },
+      "value": {
+        "en": [
+          "Julien A. Raemy"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2020"
+        ]
+      }
+    },
+     I ],     
     "items": [
       {
         "id": "https://julsraemy.ch/av-annotations/eaf-2020-lightning-talk/canvas-1/canvas",
