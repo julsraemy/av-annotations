@@ -15,16 +15,6 @@
         "id": "https://julsraemy.github.io/av-annotations/edgar-and-james/canvas-1/canvas",
         "type": "Canvas",
         "duration": 48.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://julsraemy.github.io/av-annotations/annotations/edgar-and-james-canvas-1-description.json",
-            "label": {
-              "none": ["Description"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://julsraemy.github.io/av-annotations/edgar-and-james/canvas-1/paintings",
